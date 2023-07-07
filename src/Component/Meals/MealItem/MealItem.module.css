@@ -1,0 +1,24 @@
+.meal {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    margin-bottom: .25rem;
+    background-color: #fff;
+    border-radius: 8px;
+  }
+  
+  .meal h5 {
+    margin: 0 0 0.25rem 0;
+    color: #003D19;
+  }
+  
+  .description {
+   font-size: 14px;    
+  }
+  
+  .price {
+    font-weight: bold;
+    color: #003D19;
+    font-size: 1.10rem;
+  }
